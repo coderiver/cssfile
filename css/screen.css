@@ -1,4 +1,4 @@
-.challenges_list { font-size: 0; }
+.challenges_list { font-size: 0; background: red; }
 
 .challenges_item { display: inline-block; width: 25%; margin-bottom: 40px; padding: 0 5px; vertical-align: top; }
 
